@@ -1,4 +1,4 @@
-def spam():
+  def spam():
     eggs = 'spam local'
     print(eggs)     #prints 'spam local'
 def bacon():
